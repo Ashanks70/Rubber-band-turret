@@ -1,0 +1,24 @@
+/*
+
+*/
+//setup variable "times" as 0
+void setup() {
+    //initiate serial monitor
+}
+
+void loop() {
+    //if sensor is triggered and times <4
+      //if button pushed times --1
+       //if times =1
+        //set servo to x
+        //delay 1000
+      //if times =2
+        //set servo to x
+        //delay 1000
+      //if times =3
+        //set servo to x
+        //delay 1000
+      //if button not pushed times ++1
+      //serial.Println(times0)
+  
+}
