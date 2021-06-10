@@ -1,0 +1,31 @@
+#include <NewPing.h>
+#include <Servo.h>
+int LED = 12;
+int counter =0;
+#define TRIGGER_PIN 7
+#define ECHO_PIN 6
+#define MAX_DISTANCE 200
+Servo myservo;
+NewPing myHCSR04(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
+void setup() {
+  Serial.begin(9600);
+  pinMode(LED, OUTPUT);
+  myservo.attach(9);
+}
+void loop() {
+    Serial.println(myHCSR04.ping_cm());//show distance
+    if (myHCSR04.ping_cm() != 0) { //check if in range
+      digitalWrite(LED, LOW);
+      counter + 15;
+      myservo.write(counter);
+    }
+    if(counter=150) {
+      counter == 0;
+    }
+    if (myHCSR04.ping_cm() == 0){
+    myservo.write(0);
+       digitalWrite(LED,HIGH);
+    }
+      Serial.println("ON");
+    delay(400);
+}
