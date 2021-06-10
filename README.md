@@ -10,5 +10,35 @@ Make a turret that shoots when people pass by.
 [Ideas and Info Doc](https://docs.google.com/document/d/1VParREB_qOxd4Y_FFzxo0lPHNGly_q6GpeWBOjWirfw/edit)
 
 
-Reflection
+what we have now (picture)
+
+
+
+
+our final assembly (onshape)
+
+
+
+
+
+
+final code(code link)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reflection 1
 Progress has been a little slow, however it is getting there and we are making progress on CAD and coding.
+
+
+
+Final reflection
