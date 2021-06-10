@@ -10,7 +10,7 @@ Make a turret that shoots when people pass by.
 [Ideas and Info Doc](https://docs.google.com/document/d/1VParREB_qOxd4Y_FFzxo0lPHNGly_q6GpeWBOjWirfw/edit)
 
 
-what we have now
+Pictures
 [ON](ON.jpg)
 [OFF](OFF.jpg)
 
@@ -18,18 +18,7 @@ what we have now
 
 
 
-[final code]
-
-
-
-
-
-
-
-
-
-
-
+[final code](https://github.com/Ashanks70/Rubber-band-turret/blob/8b673aee54401963cd32de4e2f3482e0afa54f7d/Final%20code)
 
 
 Reflection 1:
