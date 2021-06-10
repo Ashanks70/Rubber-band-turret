@@ -1,4 +1,5 @@
 # Rubber-band-turret
+By:Aidan Shanks and Malachi Paschal
 
 Goals:
 Make a turret that shoots when people pass by.
