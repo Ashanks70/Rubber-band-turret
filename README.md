@@ -11,7 +11,8 @@ Make a turret that shoots when people pass by.
 
 
 what we have now (picture)
-
+[ON](ON.jpg)
+[OFF](OFF.jpg)
 
 
 
