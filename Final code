@@ -16,11 +16,11 @@ void loop() {
     Serial.println(myHCSR04.ping_cm());//show distance
     if (myHCSR04.ping_cm() != 0) { //check if in range
       digitalWrite(LED, LOW);
-      counter + 15;
+      counter + 15;//switch to next rubber band
       myservo.write(counter);
     }
     if(counter=150) {
-      counter == 0;
+      counter == 0;//reset
     }
     if (myHCSR04.ping_cm() == 0){
     myservo.write(0);
