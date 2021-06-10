@@ -10,20 +10,21 @@ Make a turret that shoots when people pass by.
 [Ideas and Info Doc](https://docs.google.com/document/d/1VParREB_qOxd4Y_FFzxo0lPHNGly_q6GpeWBOjWirfw/edit)
 
 
-what we have now (picture)
+what we have now
 [ON](ON.jpg)
 [OFF](OFF.jpg)
 
 
 
-our final assembly (onshape)
+our final assembly
+[Final Assembly](https://cvilleschools.onshape.com/documents/0c580a67f37cedab4787cb5b/w/3adaea760dfe60e670bdba07/e/58ff7b08b551ae91478b5c9e)
 
 
 
 
 
 
-final code(code link)
+final code
 
 
 
