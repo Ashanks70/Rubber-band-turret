@@ -14,17 +14,11 @@ what we have now
 [ON](ON.jpg)
 [OFF](OFF.jpg)
 
-
-
-our final assembly
 [Final Assembly](https://cvilleschools.onshape.com/documents/0c580a67f37cedab4787cb5b/w/3adaea760dfe60e670bdba07/e/58ff7b08b551ae91478b5c9e)
 
 
 
-
-
-
-final code
+[final code]
 
 
 
