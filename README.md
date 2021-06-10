@@ -41,4 +41,4 @@ Progress has been a little slow, however it is getting there and we are making p
 
 
 
-Final reflection WHile the final creation was not a success and did not do what we wanted it to do, I feel as though I have learned more about the individual components used to make this and how you can use them. I think it works well as a motion sensor so while we finished with one part we did not get to the point where we could finish the second part. Despite all of this, we were very close to finishing and I think we could have finished it with one or two more weeks.
+Final reflection While the final creation was not a success and did not do what we wanted it to do, I feel as though I have learned more about the individual components used to make this and how you can use them. I think it works well as a motion sensor so while we finished with one part we did not get to the point where we could finish the second part. Despite all of this, we were very close to finishing and I think we could have finished it with one or two more weeks.
